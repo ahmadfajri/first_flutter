@@ -1,16 +1,19 @@
-# wisata_bandung
+# Wisata Bandung
 
-A new Flutter project.
+## What's Included ?
 
-## Getting Started
+- Using Stateless Widget.
+- Using Statefull Widget.
+- Have 2 (two) pages and implement Navigation.
+- There is the use of the add Button to Favorites.
 
-This project is a starting point for a Flutter application.
+## Preview
 
-A few resources to get you started if this is your first Flutter project:
+<p align="left"> 
+<img src="https://github.com/ahmadfajri/first_flutter/blob/master/images/preview/preview_home.png" width="250"> <img src="https://github.com/ahmadfajri/first_flutter/blob/master/images/preview/preview_detail.png" width="250">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Install
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Download/Clone repo
+- Install libraries and dependencies flutter pub get
+- Run main.dart
